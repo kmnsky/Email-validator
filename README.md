@@ -5,3 +5,6 @@ This is a Python script that checks email addresses using the email_validator li
 ## Usage
 
 To use this script, you will need to install the email_validator and tqdm libraries:
+```
+pip install email_validator tqdm
+```
