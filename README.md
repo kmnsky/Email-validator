@@ -1,3 +1,5 @@
+![Email_validator](https://static.cdn.wisestamp.com/wp-content/uploads/2021/11/WiseStamp-email-signature-generator-and-email-signature-manager.png)
+
 # Email-validator
 
 This is a Python script that checks email addresses using the email_validator library and multithreading.
